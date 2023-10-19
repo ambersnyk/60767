@@ -42,7 +42,7 @@
     "match-sorter": "^6.3.1",
     "moment": "^2.29.4",
     "moment-jdateformatparser": "^1.2.1",
-    "monaco-editor": "^0.39.0",
+    "monaco-editor": "^0.43.0",
     "monaco-types": "^0.1.0",
     "prompts": "^2.4.2",
     "query-string": "^8.1.0",
